@@ -1,1 +1,3 @@
-# Databasesc
+{
+  "status": "ok"
+}
